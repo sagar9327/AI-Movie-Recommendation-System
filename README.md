@@ -6,6 +6,8 @@ The application uses **content-based filtering** and **cosine similarity** to re
 
 ---
 
+https://ai-movie-recommendation-system-sagar.streamlit.app
+
 ## 🚀 Features
 
 - 🎬 Search and select a movie
